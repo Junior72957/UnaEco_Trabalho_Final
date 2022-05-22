@@ -1,9 +1,15 @@
 .menu-principal{
-    background-color: #254330; 
-    height: 10000px;
+    background-color: #254330;
+    
+}
+.menu-principalntc{
+    background-color: #254330;
+    height: 2500px;
+    
 }
 .menu-principal-ultntc{
     background-color: white;
+    height: 750px;
 }
 .header-1 {
     background-color: #254330;;
@@ -234,6 +240,9 @@
 }
 .salvarmundo{
     color: white;
+    background-color: #254330;
+    height: 750px; 
+    
 }
 
 .salvarmundo h1{
@@ -277,6 +286,19 @@
     margin-right: -250px;    
     float:right;
 }
+.salvarmundo p{
+    float: left;
+    margin-top: 50px;
+    margin-left: 15px;
+    width: 50px;     
+    
+}
+.salvarmundo img{    
+    margin-left: 230px;
+    height: 50px;
+           
+    
+}
 .emailrdp{
     margin-top: 85px;
     margin-right: -189px;    
@@ -287,6 +309,63 @@
     margin-right: -189px;    
     float:right;
     background-color: greenyellow;
+}
+.direitos{
+    color: white;    
+    float: left;
+    background-color: #254330;
+    margin-top: -150px; 
+       
+}
+.direitos h2{
+    float: left;
+    font-size: 25px;    
+    margin-left: 250px;
+}
+.direitos h3{
+    float: left;
+    font-size: 25px;
+    margin-left: 500px;
+}
+.direitos h4{
+    float: right;
+    margin-left: 200px;
+    font-size: 25px;    
+    width: 550px;
+    margin-top: -36px;
+        
+}
+
+.direitos1{
+    color: white;    
+    float: left;
+    background-color: #254330;
+    margin-top: 90px; 
+       
+}
+.direitos1 h2{
+    float: left;
+    font-size: 25px;    
+    margin-left: 250px;
+}
+.direitos1 h3{
+    float: left;
+    font-size: 25px;
+    margin-left: 500px;
+}
+.direitos1 h4{
+    float: right;
+    margin-left: 200px;
+    font-size: 25px;    
+    width: 550px;
+    margin-top: -36px;
+        
+}
+.ftntc2{
+    margin-top: 10px;
+    margin-left: 700px;
+    background-color: #254330;
+
 }
 
 
